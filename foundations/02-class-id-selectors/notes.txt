@@ -1,0 +1,11 @@
+Notes:
+
+Class for 1,3,5
+    background-color,font-family,generic font
+
+ID for 2 background-color
+ID for 4 background-color 
+
+ID for 1,5 font-size
+
+
