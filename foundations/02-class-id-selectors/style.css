@@ -1,0 +1,21 @@
+p {
+    background-color: rgb(251, 191, 201);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.line4 {
+    font-family: Dejavu Sans Bold, sans-serif;
+    font-weight: bold;
+    background-color: rgb(140, 244, 140);
+    font-size: 24px;
+}
+
+.line2 {
+    color: blue;
+    font-size: 36px;
+    font-family: DejaVu Sans, sans-serif;
+}
+
+#line3 {
+    font-size: 24px;
+}
