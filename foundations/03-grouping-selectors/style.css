@@ -1,0 +1,20 @@
+/*style*/
+
+button {
+    font-size: 28px;
+    font-family: Helvetica, Times New Roman, sans-serif;
+    border-width: 2px;
+
+}
+
+.click_me {
+    background-color: black;
+    color: white;
+    border-color: gainsboro;
+}
+
+.no_click_me {
+    background-color: yellow;
+    color: black;
+    border-color: rgb(193, 183, 183);
+}
